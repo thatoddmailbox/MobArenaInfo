@@ -1,0 +1,4 @@
+    name: MobArenaInfo
+    main: me.axxonyara.minecraft.bukkit.plugins.mobarenainfo.MobArenaInfo
+    version: 1.0
+    depend: [MobArena, Spout]
